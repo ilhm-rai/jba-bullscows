@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="15" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="15" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="15" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="15" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-Forms_of_comments.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-Hello,_Java_platform.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-Select_all_correct_comments.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-Statements.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-The_forgotten_comments.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-Theory.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Difference_of_times.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-First_digit.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Good_rest_on_vacation.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Next_even_number.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Reversing.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Tens_digit.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-The_sum_of_digits.main" target="15" />
+      <module name="Bulls_and_Cows.Topics-Integer_types_and_operations-Theory.main" target="15" />
+      <module name="Bulls_and_Cows.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
